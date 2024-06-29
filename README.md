@@ -5,7 +5,7 @@ Salah satu teknik kunci dalam AR adalah Image Tracking. Teknik ini memungkinkan 
 Disini, saya akan mengajak kamu menjelajahi dunia AR bersama dan temukan bagaimana teknologi ini bisa membuat pengalaman sehari-hari kita jadi lebih menyenangkan dan informatif!
 
 ## Video Demo ->> Live Praktek
-[![Demo Video](https://img.youtube.com/vi/Qr-FZ7Z3IpQ/0.jpg)](https://youtu.be/Qr-FZ7Z3IpQ?si=RLxigmckMxwlwux0)
+[![Demo Video](https://img.youtube.com/vi/A4a-4dPn1Oo/0.jpg)](https://youtu.be/A4a-4dPn1Oo?si=kdxmVnfiuiJBroik)
 
 ## Video Demo ->> Screen Record
 [![Demo Video](https://img.youtube.com/vi/Qr-FZ7Z3IpQ/0.jpg)](https://youtu.be/Qr-FZ7Z3IpQ?si=RLxigmckMxwlwux0)
