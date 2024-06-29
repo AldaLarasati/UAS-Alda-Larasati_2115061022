@@ -11,5 +11,8 @@ Disini, saya akan mengajak kamu menjelajahi dunia AR bersama dan temukan bagaima
 
 ## Dokumentasi
 
-![Gambar 1](path/to/image1.png)
-![Gambar 2](path/to/image2.png)
+![Gambar 1](https://github.com/AldaLarasati/UAS-Alda-Larasati_2115061022/blob/d1d9ae0d8a0daf669c0a7ac5ae2d02ac8868e5d9/WhatsApp%20Image%202024-06-30%20at%2003.33.56.jpeg)
+![Gambar 2](https://github.com/AldaLarasati/UAS-Alda-Larasati_2115061022/blob/d1d9ae0d8a0daf669c0a7ac5ae2d02ac8868e5d9/WhatsApp%20Image%202024-06-30%20at%2003.33.59.jpeg)
+![Gambar 3](https://github.com/AldaLarasati/UAS-Alda-Larasati_2115061022/blob/d1d9ae0d8a0daf669c0a7ac5ae2d02ac8868e5d9/WhatsApp%20Image%202024-06-30%20at%2003.34.00.jpeg)
+![Gambar 4](https://github.com/AldaLarasati/UAS-Alda-Larasati_2115061022/blob/d1d9ae0d8a0daf669c0a7ac5ae2d02ac8868e5d9/WhatsApp%20Image%202024-06-30%20at%2003.34.01.jpeg)
+
