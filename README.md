@@ -17,4 +17,4 @@ Disini, saya akan mengajak kamu menjelajahi dunia AR bersama dan temukan bagaima
 ![Gambar 4](https://github.com/AldaLarasati/UAS-Alda-Larasati_2115061022/blob/d1d9ae0d8a0daf669c0a7ac5ae2d02ac8868e5d9/WhatsApp%20Image%202024-06-30%20at%2003.34.01.jpeg)
 
 ## QR APP
-![QR Code](path/to/qrcode.png)
+![QR Code](QRalda.png)
